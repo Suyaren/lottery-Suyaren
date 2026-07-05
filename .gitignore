@@ -1,0 +1,9 @@
+*.class
+*.jar
+*.jar.bak
+*.bak
+extracted/
+jarverify/
+verify/
+direct_modify_classes/
+META-INF/
